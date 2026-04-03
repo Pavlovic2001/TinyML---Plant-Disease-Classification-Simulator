@@ -73,7 +73,7 @@ Follow these steps to set up and run the project locally.
 
 3.  **Install the required packages:**
     ```sh
-    pip install -r requirements.txt
+    pip install -r
     ```
 
 4.  **Download the Dataset:**
